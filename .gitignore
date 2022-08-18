@@ -1,0 +1,13 @@
+.bash_history
+.bash_logout
+.bashrc
+.env
+.profile
+.wget-hsts
+
+/.cache
+/.config
+/.local
+/.ssh
+/.vscode-server
+/logs
